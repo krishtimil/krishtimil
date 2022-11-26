@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Krishant
 
+![Krishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishtimil&show_icons=true&theme=radical&count_private=true)
+
 
 
 <!--
