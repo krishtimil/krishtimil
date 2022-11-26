@@ -1,6 +1,33 @@
 # Hi there 👋, I'm Krishant
 
-![Krishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishtimil&show_icons=true&theme=radical&count_private=true)
+🛠️ **Tools I Use:**
+<br/><br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColor=1572B6)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/-Gnubash-black?style=for-the-badge&logo=gnubash)
+![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=Trello&logoColor=0079BF)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
+![Postgres](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=postgresql&logoColor=2496ED)
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishtimil&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishtimil&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+
+<p>
+  
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishtimil&theme=dracula" alt="rubiin"/>
+ 
+</p>
+
 
 
 
