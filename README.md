@@ -2,6 +2,9 @@
 
 🛠️ **Tools I Use:**
 <br/><br/>
+![Dart](https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=flutter)
+![C/C++](https://img.shields.io/badge/-C%2FC++-black?style=for-the-badge&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
