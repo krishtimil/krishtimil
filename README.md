@@ -6,6 +6,8 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=flutter)
 ![C/C++](https://img.shields.io/badge/-C%2FC++-black?style=for-the-badge&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/-Nextjs-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
